@@ -9,8 +9,8 @@ import (
 )
 
 import (
-	"gopkg.in/gcfg.v1/scanner"
-	"gopkg.in/gcfg.v1/token"
+	"github.com/escribano/gcfg/scanner"
+	"github.com/escribano/gcfg/token"
 )
 
 func ExampleScanner_Scan() {
